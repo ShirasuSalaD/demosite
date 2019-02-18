@@ -1,1 +1,2 @@
-記事「[2016年新機能! GitHubのmasterブランチをWebページとして公開する手順](http://qiita.com/tonkotsuboy_com/items/f98667b89228b98bc096)」のサンプルリポジトリです。
+ポートフォリオHTMLテンプレート | 未経験からWebデザイナーへ！【2019年版】 https://webdesigner-go.com/template/portfolio/
+を参考に作成しました。
